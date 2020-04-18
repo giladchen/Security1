@@ -1,0 +1,3 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"15718","43.536450","35.172.73.102","132.72.81.121","TCP","1514","443  >  52888 [ACK] Seq=4381 Ack=179 Win=28032 Len=1460 [TCP segment of a reassembled PDU]"
+"424648","165.162994","35.172.73.102","132.72.81.121","TCP","1514","443  >  53454 [ACK] Seq=4381 Ack=179 Win=28032 Len=1460 [TCP segment of a reassembled PDU]"
